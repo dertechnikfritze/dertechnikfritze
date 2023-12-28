@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [qulinc.com](https://qulinc.com)
+- 🔭 I’m currently working on [qulinc.com](https://qulinc.com) and [enzypass.de](https://enzypass.de)
 
 - 🌱 I’m currently learning **react, next.js & node.js**
-
-- 🔭 I’m currently working on [enzypass.de](https://enzypass.de)
 
 - 👨‍💻 All of my projects are available at [https://devs.qulinc.com/dertechnikfritze](https://devs.qulinc.com/dertechnikfritze)
 
